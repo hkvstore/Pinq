@@ -1,5 +1,5 @@
 {
-    "name": "timetoogo/pinq",
+    "name": "hkvstore/pinq",
     "description": "PHP Integrated Query - A real LINQ library for PHP",
     "keywords": ["collection", "query", "pinq"],
     "homepage": "http://www.github.com/TimeToogo/Pinq",
@@ -13,7 +13,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": ">=7.3.0",
+        "php": ">=7.4.0",
         "nikic/php-parser": "~4.10"
     },
     "require-dev": {
